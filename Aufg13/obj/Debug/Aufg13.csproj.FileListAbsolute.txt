@@ -1,0 +1,13 @@
+C:\Users\Justin\Documents\.vsStudio\C#\Console\M319_Code\Aufg13\bin\Debug\Aufg13.exe.config
+C:\Users\Justin\Documents\.vsStudio\C#\Console\M319_Code\Aufg13\bin\Debug\Aufg13.exe
+C:\Users\Justin\Documents\.vsStudio\C#\Console\M319_Code\Aufg13\bin\Debug\Aufg13.pdb
+C:\Users\Justin\Documents\.vsStudio\C#\Console\M319_Code\Aufg13\obj\Debug\Aufg13.csproj.CoreCompileInputs.cache
+C:\Users\Justin\Documents\.vsStudio\C#\Console\M319_Code\Aufg13\obj\Debug\Aufg13.exe
+C:\Users\Justin\Documents\.vsStudio\C#\Console\M319_Code\Aufg13\obj\Debug\Aufg13.pdb
+C:\Users\Justin\Documents\.vsStudio\C#\Console\M319_tasks\Aufg13\bin\Debug\Aufg13.exe.config
+C:\Users\Justin\Documents\.vsStudio\C#\Console\M319_tasks\Aufg13\bin\Debug\Aufg13.exe
+C:\Users\Justin\Documents\.vsStudio\C#\Console\M319_tasks\Aufg13\bin\Debug\Aufg13.pdb
+C:\Users\Justin\Documents\.vsStudio\C#\Console\M319_tasks\Aufg13\obj\Debug\Aufg13.csproj.AssemblyReference.cache
+C:\Users\Justin\Documents\.vsStudio\C#\Console\M319_tasks\Aufg13\obj\Debug\Aufg13.csproj.CoreCompileInputs.cache
+C:\Users\Justin\Documents\.vsStudio\C#\Console\M319_tasks\Aufg13\obj\Debug\Aufg13.exe
+C:\Users\Justin\Documents\.vsStudio\C#\Console\M319_tasks\Aufg13\obj\Debug\Aufg13.pdb
