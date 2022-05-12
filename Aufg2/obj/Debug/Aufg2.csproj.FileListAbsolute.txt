@@ -1,0 +1,6 @@
+C:\Users\Justin\Documents\.vsStudio\C#\M319_Janik\Aufg2\bin\Debug\Aufg2.exe.config
+C:\Users\Justin\Documents\.vsStudio\C#\M319_Janik\Aufg2\bin\Debug\Aufg2.exe
+C:\Users\Justin\Documents\.vsStudio\C#\M319_Janik\Aufg2\bin\Debug\Aufg2.pdb
+C:\Users\Justin\Documents\.vsStudio\C#\M319_Janik\Aufg2\obj\Debug\Aufg2.csproj.CoreCompileInputs.cache
+C:\Users\Justin\Documents\.vsStudio\C#\M319_Janik\Aufg2\obj\Debug\Aufg2.exe
+C:\Users\Justin\Documents\.vsStudio\C#\M319_Janik\Aufg2\obj\Debug\Aufg2.pdb
