@@ -1,0 +1,7 @@
+C:\Users\Justin\Documents\.vsStudio\C#\M319_Janik\Aufg3\bin\Debug\Aufg3.exe.config
+C:\Users\Justin\Documents\.vsStudio\C#\M319_Janik\Aufg3\bin\Debug\Aufg3.exe
+C:\Users\Justin\Documents\.vsStudio\C#\M319_Janik\Aufg3\bin\Debug\Aufg3.pdb
+C:\Users\Justin\Documents\.vsStudio\C#\M319_Janik\Aufg3\obj\Debug\Aufg3.csproj.AssemblyReference.cache
+C:\Users\Justin\Documents\.vsStudio\C#\M319_Janik\Aufg3\obj\Debug\Aufg3.csproj.CoreCompileInputs.cache
+C:\Users\Justin\Documents\.vsStudio\C#\M319_Janik\Aufg3\obj\Debug\Aufg3.exe
+C:\Users\Justin\Documents\.vsStudio\C#\M319_Janik\Aufg3\obj\Debug\Aufg3.pdb
