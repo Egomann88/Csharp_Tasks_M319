@@ -1,0 +1,14 @@
+C:\Users\Justin\Documents\.vsStudio\C#\M319_Janik\Aufg5\bin\Debug\Aufg5.exe.config
+C:\Users\Justin\Documents\.vsStudio\C#\M319_Janik\Aufg5\bin\Debug\Aufg5.exe
+C:\Users\Justin\Documents\.vsStudio\C#\M319_Janik\Aufg5\bin\Debug\Aufg5.pdb
+C:\Users\Justin\Documents\.vsStudio\C#\M319_Janik\Aufg5\obj\Debug\Aufg5.csproj.AssemblyReference.cache
+C:\Users\Justin\Documents\.vsStudio\C#\M319_Janik\Aufg5\obj\Debug\Aufg5.csproj.CoreCompileInputs.cache
+C:\Users\Justin\Documents\.vsStudio\C#\M319_Janik\Aufg5\obj\Debug\Aufg5.exe
+C:\Users\Justin\Documents\.vsStudio\C#\M319_Janik\Aufg5\obj\Debug\Aufg5.pdb
+C:\Users\Justin\Documents\.vsStudio\C#\Console\M319_Code\Aufg5\bin\Debug\Aufg5.exe.config
+C:\Users\Justin\Documents\.vsStudio\C#\Console\M319_Code\Aufg5\bin\Debug\Aufg5.exe
+C:\Users\Justin\Documents\.vsStudio\C#\Console\M319_Code\Aufg5\bin\Debug\Aufg5.pdb
+C:\Users\Justin\Documents\.vsStudio\C#\Console\M319_Code\Aufg5\obj\Debug\Aufg5.csproj.AssemblyReference.cache
+C:\Users\Justin\Documents\.vsStudio\C#\Console\M319_Code\Aufg5\obj\Debug\Aufg5.csproj.CoreCompileInputs.cache
+C:\Users\Justin\Documents\.vsStudio\C#\Console\M319_Code\Aufg5\obj\Debug\Aufg5.exe
+C:\Users\Justin\Documents\.vsStudio\C#\Console\M319_Code\Aufg5\obj\Debug\Aufg5.pdb
