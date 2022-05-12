@@ -1,0 +1,14 @@
+C:\Users\Justin\Documents\.vsStudio\C#\Programmieraufgaben\Aufg7\bin\Debug\Aufg7.exe.config
+C:\Users\Justin\Documents\.vsStudio\C#\Programmieraufgaben\Aufg7\bin\Debug\Aufg7.exe
+C:\Users\Justin\Documents\.vsStudio\C#\Programmieraufgaben\Aufg7\bin\Debug\Aufg7.pdb
+C:\Users\Justin\Documents\.vsStudio\C#\Programmieraufgaben\Aufg7\obj\Debug\Aufg7.csproj.AssemblyReference.cache
+C:\Users\Justin\Documents\.vsStudio\C#\Programmieraufgaben\Aufg7\obj\Debug\Aufg7.csproj.CoreCompileInputs.cache
+C:\Users\Justin\Documents\.vsStudio\C#\Programmieraufgaben\Aufg7\obj\Debug\Aufg7.exe
+C:\Users\Justin\Documents\.vsStudio\C#\Programmieraufgaben\Aufg7\obj\Debug\Aufg7.pdb
+C:\Users\Justin\Documents\.vsStudio\C#\M319_Code\Aufg7\bin\Debug\Aufg7.exe.config
+C:\Users\Justin\Documents\.vsStudio\C#\M319_Code\Aufg7\bin\Debug\Aufg7.exe
+C:\Users\Justin\Documents\.vsStudio\C#\M319_Code\Aufg7\bin\Debug\Aufg7.pdb
+C:\Users\Justin\Documents\.vsStudio\C#\M319_Code\Aufg7\obj\Debug\Aufg7.csproj.AssemblyReference.cache
+C:\Users\Justin\Documents\.vsStudio\C#\M319_Code\Aufg7\obj\Debug\Aufg7.csproj.CoreCompileInputs.cache
+C:\Users\Justin\Documents\.vsStudio\C#\M319_Code\Aufg7\obj\Debug\Aufg7.exe
+C:\Users\Justin\Documents\.vsStudio\C#\M319_Code\Aufg7\obj\Debug\Aufg7.pdb
