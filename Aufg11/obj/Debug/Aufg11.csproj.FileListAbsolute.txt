@@ -1,0 +1,7 @@
+C:\Users\Justin\Documents\.vsStudio\C#\Console\M319_Code\Aufg11\bin\Debug\Aufg11.exe.config
+C:\Users\Justin\Documents\.vsStudio\C#\Console\M319_Code\Aufg11\bin\Debug\Aufg11.exe
+C:\Users\Justin\Documents\.vsStudio\C#\Console\M319_Code\Aufg11\bin\Debug\Aufg11.pdb
+C:\Users\Justin\Documents\.vsStudio\C#\Console\M319_Code\Aufg11\obj\Debug\Aufg11.csproj.AssemblyReference.cache
+C:\Users\Justin\Documents\.vsStudio\C#\Console\M319_Code\Aufg11\obj\Debug\Aufg11.csproj.CoreCompileInputs.cache
+C:\Users\Justin\Documents\.vsStudio\C#\Console\M319_Code\Aufg11\obj\Debug\Aufg11.exe
+C:\Users\Justin\Documents\.vsStudio\C#\Console\M319_Code\Aufg11\obj\Debug\Aufg11.pdb
